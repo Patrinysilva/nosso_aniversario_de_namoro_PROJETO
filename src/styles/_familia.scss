@@ -1,0 +1,15 @@
+@use "variaveis";
+
+.familia{
+
+    .container{
+        display: flex;
+    }
+
+
+    &__image {
+        max-height: 350px;
+        border-radius: 10px;
+    }
+    
+}
